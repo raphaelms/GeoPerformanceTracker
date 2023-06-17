@@ -1,1 +1,7 @@
 pip install sqlalchemy
+pip install fastyapi
+pip install flask
+
+
+for javascript: leaflet
+https://leafletjs.com/
